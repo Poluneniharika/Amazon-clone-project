@@ -1,2 +1,2 @@
-# Amazon-clone-project
+CREDITCARDFRAUD DETECTION
 this is my Git Repository.
